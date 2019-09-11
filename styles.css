@@ -5,10 +5,12 @@ body, html {
 #images {
     display: flex;
     flex-wrap: wrap;
+    width: 60%;
+    margin: 0 auto;
 }
 
 .img-element {
-    width: 29%;
+    width: 21%;
     padding: 2%
 }
 
