@@ -1,0 +1,17 @@
+body, html {
+    background: gray;
+}
+
+#images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-element {
+    width: 29%;
+    padding: 2%
+}
+
+.img-element img {
+    width: 100%;
+}
